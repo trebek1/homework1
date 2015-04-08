@@ -1,4 +1,4 @@
-	1. What is NPM? <br>
+	1. What is NPM?
 	2. What does CRUD stand for?
 	3. When adding middleware to and Express Application, where would you need to include the middleware after it's been
     installed?  For example, how would you include the body-parser middleware?
